@@ -1,0 +1,7 @@
+git config user.email"flv.9120@gmail.com"
+git config user.name"fmalasquez"
+
+
+
+git config --global user.email"flv.9120@gmail.com"
+git config --global user.name"flv.9120@gmail.com"
